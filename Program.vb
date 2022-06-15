@@ -14,7 +14,6 @@ Module Program
         Ejercicio9()
         Ejercicio10()
         Console.ReadKey()
-
     End Sub
     Sub Ejercicio1()
         Console.WriteLine("Imprimir por pantalla los primeros: 20 numeros negativos par")
@@ -95,7 +94,6 @@ Module Program
             cont = cont + 1
         End While
         Console.WriteLine("La suma es de: " & acum)
-        Console.ReadKey()
     End Sub
     Sub Ejercicio8()
         Console.WriteLine("Imprimir por pantalla la suma de los 20 primeros numeros impares a partir de 100")
